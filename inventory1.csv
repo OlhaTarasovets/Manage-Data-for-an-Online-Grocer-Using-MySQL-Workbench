@@ -1,0 +1,8 @@
+inventory_id;item_id;productName;quantity_on_hand;location
+1;1000;Bennet Farm free-range eggs;21;D12
+2;1100;Freshness White beans;41;a2
+3;1222;Freshness Green beans;47;a3
+4;1223;Freshness Green beans;7;a7
+5;1224;Freshness Wax beans;23;a3
+6;2000;Ruby's Kale;26;p12
+7;2001;Ruby's Organic Kale;7;po2
