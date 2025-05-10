@@ -1,9 +1,9 @@
-purchase_id;item_id;purchase_date;vendorName;quantity;cost
-00001;1000;2/1/2022;Bennet Farms;25;2.35
-00002;1100;2/2/2022;Freshness Inc.;40;0.69
-00003;1222;2/10/2022;Freshness Inc.;40;0.59
-00004;1223;2/10/2022;Freshness Inc.;10;1.75
-00009;1223;2/15/2022;Freshness Inc.;10;1.8
-00005;1224;2/10/2022;Freshness Inc.;30;0.65
-00007;2000;2/12/2022;Ruby Redd Produce LLC;25;1.29
-00008;2001;2/12/2022;Ruby Redd Produce LLC;20;2.19
+purchase_id,item_id,purchase_date,vendorName,quantity,cost
+00001,1000,2/1/2022,Bennet Farms,25,2.35
+00002,1100,2/2/2022,Freshness Inc.,40,0.69
+00003,1222,2/10/2022,Freshness Inc.,40,0.59
+00004,1223,2/10/2022,Freshness Inc.,10,1.75
+00009,1223,2/15/2022,Freshness Inc.,10,1.8
+00005,1224,2/10/2022,Freshness Inc.,30,0.65
+00007,2000,2/12/2022,Ruby Redd Produce LLC,25,1.29
+00008,2001,2/12/2022,Ruby Redd Produce LLC,20,2.19
