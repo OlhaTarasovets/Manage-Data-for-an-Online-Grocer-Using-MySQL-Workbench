@@ -1,4 +1,4 @@
-vendor_id;vendorName;address
-v001;Bennet Farms;Rt. 17 Evansville, IL 55446
-v002;Freshness Inc.;202 E. Maple St., St. Joseph, MO 45678
-v003;Ruby Redd Produce LLC;1212 Milam St., Kenosha, AL 34567
+"vendor_id","vendorName","address"
+"v001","Bennet Farms","Rt. 17 Evansville, IL 55446"
+"v002","Freshness Inc.","202 E. Maple St., St. Joseph, MO 45678"
+"v003","Ruby Redd Produce LLC","1212 Milam St., Kenosha, AL 34567"
